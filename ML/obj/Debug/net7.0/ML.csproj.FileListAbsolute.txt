@@ -1,0 +1,12 @@
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\bin\Debug\net7.0\ML.deps.json
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\bin\Debug\net7.0\ML.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\bin\Debug\net7.0\ML.pdb
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.csproj.AssemblyReference.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.AssemblyInfoInputs.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.AssemblyInfo.cs
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.csproj.CoreCompileInputs.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\refint\ML.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ML.pdb
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\ML\obj\Debug\net7.0\ref\ML.dll

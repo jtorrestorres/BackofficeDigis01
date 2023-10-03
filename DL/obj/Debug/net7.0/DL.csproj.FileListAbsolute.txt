@@ -1,0 +1,14 @@
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\bin\Debug\net7.0\DL.deps.json
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\bin\Debug\net7.0\DL.runtimeconfig.json
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\bin\Debug\net7.0\DL.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\bin\Debug\net7.0\DL.pdb
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.csproj.AssemblyReference.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.AssemblyInfoInputs.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.AssemblyInfo.cs
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\refint\DL.dll
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.pdb
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\DL.genruntimeconfig.cache
+C:\Users\ALIEN22\source\repos\BackofficeDigis01\DL\obj\Debug\net7.0\ref\DL.dll

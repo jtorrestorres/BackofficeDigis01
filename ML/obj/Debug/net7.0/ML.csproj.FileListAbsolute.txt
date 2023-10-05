@@ -22,3 +22,15 @@ C:\Users\ALIEN22\source\repos\BackofficeDigis01\BackofficeDigis01\ML\obj\Debug\n
 C:\Users\ALIEN22\source\repos\BackofficeDigis01\BackofficeDigis01\ML\obj\Debug\net7.0\refint\ML.dll
 C:\Users\ALIEN22\source\repos\BackofficeDigis01\BackofficeDigis01\ML\obj\Debug\net7.0\ML.pdb
 C:\Users\ALIEN22\source\repos\BackofficeDigis01\BackofficeDigis01\ML\obj\Debug\net7.0\ref\ML.dll
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\bin\Debug\net7.0\ML.deps.json
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\bin\Debug\net7.0\ML.dll
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\bin\Debug\net7.0\ML.pdb
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.csproj.AssemblyReference.cache
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.AssemblyInfoInputs.cache
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.AssemblyInfo.cs
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.csproj.CoreCompileInputs.cache
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.dll
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\refint\ML.dll
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ML.pdb
+C:\Users\digis\Documents\Christian_Rogelio_Hernandez_Padilla\BackOffice\ML\obj\Debug\net7.0\ref\ML.dll

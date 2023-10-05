@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj": {}
+    "C:\\Users\\digis\\Documents\\Christian_Rogelio_Hernandez_Padilla\\BackOffice\\DL\\DL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj": {
+    "C:\\Users\\digis\\Documents\\Christian_Rogelio_Hernandez_Padilla\\BackOffice\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian_Rogelio_Hernandez_Padilla\\BackOffice\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj",
-        "packagesPath": "C:\\Users\\ALIEN22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\obj\\",
+        "projectPath": "C:\\Users\\digis\\Documents\\Christian_Rogelio_Hernandez_Padilla\\BackOffice\\DL\\DL.csproj",
+        "packagesPath": "C:\\Users\\digis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\digis\\Documents\\Christian_Rogelio_Hernandez_Padilla\\BackOffice\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ALIEN22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\digis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

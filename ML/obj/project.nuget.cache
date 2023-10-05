@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AgdfQuUHSVNvmlaJ4/xdtKV8iPJjCj3twPRtS/+VVKJQtN/vU23bOve72Pcn626r7qkXlyGm0pF5P0gzgXaLlQ==",
+  "dgSpecHash": "IV/MPrQ6cCK/poiOHTgeI9m/BlwP7OKNmipc+8498z6geK4lW3O+80Zz1TxN64XpcTfmv7ZV20xiWmrtSklBUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\ML\\ML.csproj",
+  "projectFilePath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\ML\\ML.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

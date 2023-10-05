@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sq4aPQE7npERjk95DWBp0uCSLBFk+5ItJShrJ2yKOdQ3s6+0fpysAYjYAeq5aVllzFPVI4hbbT9JudWF91YpzA==",
+  "dgSpecHash": "tfPAKaBla3QL+Wd0HreRRB9kXwbxatiga9LRbOQubA13Uy2dJ636CIn13atWroXnXdxnHE3IwvBI7/qzdXjzWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALIEN22\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ALIEN22\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

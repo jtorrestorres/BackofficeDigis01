@@ -2926,11 +2926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BL\\BL.csproj",
+      "projectUniqueName": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BL\\BL.csproj",
+      "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\ALIEN22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BL\\obj\\",
+      "outputPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2951,11 +2951,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\DL\\DL.csproj": {
-              "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\DL\\DL.csproj"
+            "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj": {
+              "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\DL\\DL.csproj"
             },
-            "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\ML\\ML.csproj": {
-              "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\ML\\ML.csproj"
+            "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\ML\\ML.csproj": {
+              "projectPath": "C:\\Users\\ALIEN22\\source\\repos\\BackofficeDigis01\\BackofficeDigis01\\ML\\ML.csproj"
             }
           }
         }
